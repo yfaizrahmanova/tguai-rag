@@ -1,0 +1,12 @@
+langchain
+langchain-text-splitters
+langchain-core
+langchain-community
+chromadb
+sentence-transformers
+rank_bm25
+faiss-cpu
+ragas
+pandas
+matplotlib
+numpy
